@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 python-reapy = "^0.10.0"
+langchain = "^0.2.15"
 
 
 [build-system]
